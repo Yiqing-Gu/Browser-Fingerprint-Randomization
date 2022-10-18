@@ -1,5 +1,5 @@
 # Privacy-Enhance-Spoofer
-This is a repositary for a Law & Privay course project. This project is for the proof whether there is a relationship between browser fingerprint indentifers and stateless tracking.
+This is a repositary for a Law & Privay course project. This project is for the proof whether there is a relationship between browser fingerprint identifiers and stateless tracking.
 
 We randomized values in browser fingerprint indentifers to verify our hypothesis.
 
